@@ -7,3 +7,4 @@ The purpose for re-creating the budget app is to teach advanced topics in javasc
 
 ### Acknowledgements
 Jonas Schmedtmann - The Complete Javascript Course 2018
+![Coursework](https://res.cloudinary.com/dedmuznkk/image/upload/v1538441582/Screenshot_2018-10-02_The_Complete_JavaScript_Course_2018_Build_Real_Projects.png)
